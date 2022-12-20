@@ -9,4 +9,4 @@ Bienvenido al sistema de gestión de hotelería SANTA MARIA LA ANTIGUA.
 
 [hotelsantamaria.servisofts.com](https://hotelsantamaria.servisofts.com)
 
-Para saber más visita nuestra [Wiki](https://github.com/servisofts/darmotos/wiki)
+Para saber más visita nuestra [Wiki](https://github.com/servisofts/hotel_santa_maria/wiki/Inicio)
